@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealmExemple</string>
+    <string name="adicionar">Adicionar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmar">confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nome_do_produto">Nome do produto</string>
+</resources>
